@@ -4,7 +4,7 @@
 
 Este projeto demonstra o poder da automação utilizando a biblioteca **PyAutoGUI**. Com ele, é possível criar um **bot de automação** que simula ações do usuário como cliques, digitação e navegação, abrindo um leque infinito de possibilidades para automatizar tarefas repetitivas no computador.
 
-[📹 Clique aqui para ver o vídeo](https://github.com/Gabrielb04/Automacao-Python/blob/main/assets/automa%C3%A7%C3%A3o%20video.mp4)
+![Descrição do GIF](https://s7.ezgif.com/tmp/ezgif-76cd7e9a95775a.gif)
 
 
 ## 🎯 Objetivo
