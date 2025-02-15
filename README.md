@@ -61,6 +61,11 @@ Este **bot de automação** pode ser ajustado para diferentes sistemas e necessi
 
 📢 **Dica:** Para encontrar as coordenadas dos elementos na tela, utilize `pyautogui.position()`.
 
+### Você pode me pagar um café! ☕
+
+#### Chave PIX:
+` g26b04@gmail.com `
+
 ## 📩 Contribuição
 
 Fique à vontade para sugerir melhorias ou personalizar o projeto conforme necessário! 😊
