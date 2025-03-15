@@ -41,13 +41,21 @@ Além do cadastro de produtos, esse **bot de automação** pode ser ajustado par
 
 ## ⚙️ Como Usar
 
-1. Instale as dependências:
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/Gabrielb04/Automacao-Python.git
+   ```
+2. Instale as dependências:
    ```sh
    pip install pyautogui pandas openpyxl
    ```
-2. Execute o script Python:
+1. Entre no diretório do repositório:
    ```sh
-   python automacao.py
+   cd Automacao-python
+   ```
+4. Execute o script Python:
+   ```sh
+   python codigo.pyw
    ```
 
 ## 🔧 Ajustes Possíveis
